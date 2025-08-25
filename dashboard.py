@@ -97,7 +97,7 @@ with st.sidebar:
 
 # visualisasi
 
-st.header('streamlit Final Project Ddashboard :sparkles:')
+st.header('Streamlit Final Project Dashboard :sparkles:')
 st.subheader('Daily Orders')
 
 col1, col2 = st.columns(2)
